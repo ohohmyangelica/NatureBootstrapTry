@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,500);
+div{
+  /*border: 1px solid;*/
+}
+
+body{
+  border: 1px solid red;
+  font-family: 'Open Sans';
+  font-weight: 400;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-weight: 500;
+}
+
+hr {
+  width: 80%;
+  box-shadow: 2px 2px 5px #888;
+}
+
+footer {
+  font-size: 12px;
+  background-color: #eee9d5;
+  padding: 10px;
+}
+
+.socialmedia {
+  background-color: #eee9d5;
+}
+
+.sns {
+  display: inline;
+  float: right;
+}
+
+.alogo {
+  padding: 5px 0px 5px 0px;
+}
+
+.nav{
+  background-color: #413831;
+  font-family: Trebuchet MS;
+  font-size: 22px;
+  height: 100px;
+}
+
+.navbar {
+  padding-top: 30px;
+
+}
+.ulsns {
+  list-style-type: none;
+  display: inline;
+}
+
+.navlink {
+  text-decoration: none;
+  color: #eee;
+}
+
+.navlink:hover {
+  color: #fa8b80;
+  text-decoration: none;
+}
+
+.tagline {
+  color: #B3392C;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 26px;
+  padding: 15px;
+}
+
+.col1 {
+  padding: 0 5px 0 5px;
+  color: #eee;
+  display: inline-flex;
+}
+
+.gallery {
+  /*display: inline-flex;*/
+  background-color: #726457;
+  border: 1px solid #FFF;
+}
+
+.row3 {
+  background-color: #726457;
+}
+
+.abtus, .whyus {
+  text-decoration: none;
+  font-family: Trebuchet MS;
+  font-size: 22px;
+  color: #eee;
+  padding: 20px 10px 10px 20px;
+}
+
+
+.icon {
+  margin: 46px 0px 0px 28px;
+  width: 11%;
+  height: 100%;
+}
+
+.content {
+  width: 78%;
+}
+
+.whyus2 {
+  display: inline-flex;
+}
